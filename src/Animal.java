@@ -13,10 +13,10 @@ public class Animal {
     }
 
     public void run(int distance) {
-        System.out.println("пробігає " + distance + " метрів.");
+        System.out.println("пробіг " + distance + " метрів.");
     }
 
     public void swim(int distance) {
-        System.out.println(" пропливає " + distance + " метрів.");
+        System.out.println(" проплив " + distance + " метрів.");
     }
 }
