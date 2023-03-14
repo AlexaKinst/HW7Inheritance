@@ -5,7 +5,7 @@ public class Demo {
         Cat cat = new Cat("Лютик");
         Cat cat2 = new Cat("Томас");
         Dog dog = new Dog("Сорбонна");
-        Dog dog2 = new Dog("Луна");
+        Dog dog2 = new Dog("Ліверія");
 
         cat.run(400);
         cat.swim(2);

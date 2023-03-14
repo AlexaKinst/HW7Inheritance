@@ -22,7 +22,7 @@ public class Cat extends Animal {
 
     @Override
     public void swim(int distance) {
-        System.out.println(this.name + " не вміє плавати");
+        System.out.println(this.name + " не вміє ще плавати");
     }
 }
 

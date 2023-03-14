@@ -16,7 +16,7 @@ public class Dog extends Animal {
         if (distance <= 500) {
             System.out.println(this.name + " пробігла " + distance + " метрів.");
         } else {
-            System.out.println(this.name + " не може витримати таку нагрузку, тому вирішила піти поїсти.");
+            System.out.println(this.name + " не хоче бігати, тому вирішила піти поїсти.");
         }
     }
 
